@@ -6,3 +6,5 @@ title: 'Hello World'
 # Hello World
 
 Hugo test 01
+
+![image](/image.png)
