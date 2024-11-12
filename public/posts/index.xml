@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on iceship</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on iceship</description>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 12 Nov 2024 21:24:13 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 12 Nov 2024 21:24:13 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;Hugo test 01&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
